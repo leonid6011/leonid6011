@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leonid6011
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegram: @echrysta
 <!---
